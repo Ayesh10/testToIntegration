@@ -18,7 +18,7 @@ public class BaseMethods {
 	
 	@BeforeTest
 	public void beforeTest() {
-		System.out.println("Before Test Execution");
+		System.out.println("Before Test Execution ok");
 	}
 	@AfterTest
 	public void turncateTest() {
