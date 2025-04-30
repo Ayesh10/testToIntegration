@@ -22,7 +22,7 @@ public class BaseMethods {
 	}
 	@AfterTest
 	public void turncateTest() {
-		System.out.println("Turncate after test");
+		System.out.println("Turncate after test ok");
 
 	}
 	
